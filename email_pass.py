@@ -1,2 +1,2 @@
-email_="suba444raj@gmail.com"
+email_="Give your own email id"
 pass_="lbhezpqjpeznioua"
